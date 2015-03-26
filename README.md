@@ -1,3 +1,3 @@
 DataGreatWall
 =============
-The fastest and easiest java database/searchengine class
+The fastest and easiest java database/search implement
